@@ -16,16 +16,16 @@ Excel / CSV (Data Source)
 Data Cleaning & Transformation
 📊 Key Features
 📈 Interactive dashboard with real-time filtering
-📌 KPI tracking:
+📌 KPI Tracking:
 Total Sales: $1.20M
 Average Sales: $141
 Number of Items: 8523
 Average Rating: 3.9
-🎛️ Filter panel for:
+🎛️ Filters:
 Outlet Location Type
 Outlet Size
 Item Type
-📉 Visual insights:
+📉 Visual Insights:
 Sales by Item Type
 Fat Content Analysis (Low Fat vs Regular)
 Outlet Establishment Trends
